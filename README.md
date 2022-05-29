@@ -48,7 +48,7 @@ Here, the output would be the oral message of the sentence - "They said, don't g
 
 # Important instructions while using the app
 
-1. Libraries to be installed in the system are:
+1. Libraries to be imported to the jupyter notebook are:
 - tkinter
 - PIL
 - opencv
