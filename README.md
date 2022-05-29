@@ -70,8 +70,11 @@ If you have windows, go on this page https://github.com/UB-Mannheim/tesseract/wi
 Linux
 
 On Linux you can simply open the terminal and insert the following commands:
+
 sudo apt install tesseract-ocr
+
 sudo apt install libtesseract-dev
+
 If the commands don’t work, you can refer to the Tesseract website page for more instructions: https://tesseract-ocr.github.io/tessdoc/Home.html.
 
 Mac
