@@ -66,7 +66,6 @@ Here, the output would be the oral message of the sentence - "They said, don't g
 Windows
 
 If you have windows, go on this page https://github.com/UB-Mannheim/tesseract/wiki, download and install tesseract 64 bit.
-If you want to follow step by step the installation process, you can watch it on my video tutorial above.
 
 Linux
 
