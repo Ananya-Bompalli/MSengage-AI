@@ -80,7 +80,9 @@ If the commands don’t work, you can refer to the Tesseract website page for mo
 Mac
 
 To install tesseract on Mac use this command:
+
 sudo port install tesseract
+
 If this command doesn’t work, check this page for more instructions: https://tesseract-ocr.github.io/tessdoc/Home.html
 
 3. **While storing the faces in face and criminal directory, ensure that the path of face directory, criminal directory and haar cascade files are given correctly according to their location on your computer. Also note the difference between / and \ while giving the path and change according to the direction in source code and requirement (i.e, retrieval or input)**
